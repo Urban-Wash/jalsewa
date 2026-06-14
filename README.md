@@ -64,10 +64,8 @@ const EMAILJS_TEMPLATE_ID = 'YOUR_TEMPLATE_ID';  // ← paste here
 
 | Capacity  | Price     |
 |-----------|-----------|
-| 5,000 Ltr | Rs. 1,050 |
-| 6,000 Ltr | Rs. 1,050 |
-| 7,000 Ltr | Rs. 1,350 |
-| 8,000 Ltr | Rs. 1,350 |
+| 6,000 Ltr | Rs. 900 |
+| 8,000 Ltr | Rs. 1,150 |
 
 ---
 
